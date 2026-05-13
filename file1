@@ -2,3 +2,8 @@
 Hello, today i'm doing work for git.
 yum updaye -y
 echo "welcom to this session"
+
+git status
+git add .
+git congif --list
+git log
